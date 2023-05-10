@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+input{
+  width: 700px;
+}
+
+.row{
+  margin-top: 20px;
+}
+
+li{
+  border: 1px solid black;
+  margin: 5px 0px;
+  background-color: whitesmoke;
+  color: black;
+  font-size: 20px;
+}
+.main-container{
+  background-color: #282c34;
+}
+
+div{
+  text-align: center;
+}
